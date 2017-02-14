@@ -1,0 +1,1 @@
+git add _posts && git commit -m""$(date +%Y-%m-%dpost) && git push

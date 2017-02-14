@@ -1,0 +1,76 @@
+# Site Info
+title: 藏身于此
+tagline: ' 我的的个人主页'
+description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://build2last.github.io" target="_blank">@build2last</a>.'
+baseurl: ""
+url: http://build2last.github.io
+logo: '/public/logo.png'
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+paginate: 5
+paginate_path: '/tblog/page:num'
+permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: 刘坤
+  description: 博文广志，见贤思齐
+  gravatar: 6cfdc8b145bde3b1cbc6edd3686545ad # md5 hash of your email address
+  signature:
+    sig1: 经历
+    sig2: 觉察
+    sig3: 接纳
+    sig4: 丰富
+    sig5: 完整
+  contact:
+    linkedin:  http://www.linkedin.com/in/iamkun
+    github:    https://github.com/build2last
+    # facebook:  <hide>
+    twitter:   https://twitter.com/asuper_kun
+    weibo:     http://weibo.com/bestbuild
+    # email:     lancelotdev@163.com #http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+
+# Navigation (2nd level links supported)
+nav:
+  Home:
+    - '/'
+  Blog:
+    - '/tblog/'
+    - { Categories: '/tblog/categories/' }
+    - { Tags: '/tblog/tags/' }
+  About:
+    - '/about/'
+  Links:
+    - '/links/'
+
+# Where are tags and categories displayed
+tag_page: '/tblog/tags/'
+category_page: '/tblog/categories/'
+
+hero:
+  image: /public/img/home_page.jpg
+  caption: <b>荡胸生层云，决眦入归鸟。</b>
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: 'UA-81435011-1' # leave blank if you don't want google analytics
+disqus_short_name: '' # leave blank if you don't want disqus
+
+comments :
+  state : true
+  provider : disqus
+  duoshuo :
+    short_name : landflow
+  disqus :
+      short_name : Yinghuo
