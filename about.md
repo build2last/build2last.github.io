@@ -40,3 +40,8 @@ An undergraduate student major in Computer Science in NUST.
 ## My [Tech Blog](http://www.cnblogs.com/learn-to-rock/)
 
 ## My [Resume](http://tofind.space/public/resume.pdf)
+
+> 我有想到，把自己的日常和内心想法都写出来，会不会被别人利用来攻击我。
+但我更愿意相信，充分的沟通能避免很多不必要的冲突和矛盾。
+
+记录的目的有很多，我所留下的这些文痕，又将会给我的未来带来怎样的影响呢？
