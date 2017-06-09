@@ -3,7 +3,7 @@ layout: post
 title: Kun Liu的Trend Micro实习小结
 category: 生活
 comments: true
-tags: 事记
+tags: 事迹
 ---
 
 实习结束，记录一些东西给越发健忘的自己。
