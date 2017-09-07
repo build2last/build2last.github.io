@@ -24,7 +24,7 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: 刘坤
+  name: Liu Kun
   description: 博文广志，见贤思齐
   gravatar: 6cfdc8b145bde3b1cbc6edd3686545ad # md5 hash of your email address
   signature:
@@ -64,7 +64,7 @@ hero:
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-81435011-1' # leave blank if you don't want google analytics
+google_analytics_token: '' # leave blank if you don't want google analytics
 disqus_short_name: '' # leave blank if you don't want disqus
 
 comments :
